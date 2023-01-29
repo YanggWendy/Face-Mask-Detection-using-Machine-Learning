@@ -11,4 +11,4 @@ Here TP is the number of correct objects given, FP is the number of incorrect ob
 
 We approach this task through two different paths, [Face Detection + Classification](https://github.com/YanggWendy/Face-Mask-Detection-using-Machine-Learning/tree/main/Retinaface%2Bclassification) and [YOLOv5 object detection model](https://github.com/YanggWendy/Face-Mask-Detection-using-Machine-Learning/tree/main/YOLOv5).
 
-For more information, please refer to report: https://github.com/YanggWendy/Face-Mask-Detection-using-Machine-Learning/blob/main/Face%20Mask%20Detection%20using%20Machine%20Learning.pdf
+For more information, please refer to [Report](https://github.com/YanggWendy/Face-Mask-Detection-using-Machine-Learning/blob/main/Face%20Mask%20Detection%20using%20Machine%20Learning.pdf)
